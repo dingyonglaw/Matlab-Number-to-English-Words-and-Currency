@@ -9,9 +9,9 @@ E.g. Usage
 
 num2words(113.1212)
 
-return 'one hundred thirteen point one two one two'
+% return 'one hundred thirteen point one two one two'
 
 
 num2currency(113.1212)
 
-return 'one hundred thirteen and twelve'
+% return 'one hundred thirteen and twelve'
