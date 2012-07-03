@@ -1,5 +1,9 @@
-Matlab-Number-to-English-Words-and-Currency
-===========================================
+Matlab Number to English Words and Currency Friendly
+====================================================
+ * Copyright 2011, Jarod Law Ding Yong <dingyong.law@gmail.com>
+ * Licensed under the MIT
+ * http://www.opensource.org/licenses/mit-license.php
+
 
 Matlab Number to English Words and Currency
 
